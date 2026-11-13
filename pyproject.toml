@@ -1,0 +1,13 @@
+[project]
+name = "fetch-mrs-gemini"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastmcp>=2.13.1",
+    "google-genai>=1.52.0",
+    "mcp>=1.22.0",
+    "python-dotenv>=1.2.1",
+    "python-gitlab>=7.0.0",
+]
